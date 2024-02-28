@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MotorPage
+- 🔭 I’m currently working on freecodecamp certification
 - 🌱 I’m currently learning Angular, Laravel, MySQL
 - 🤔 I’m looking for help with Cloud Services
 - 💬 Ask me about Angular

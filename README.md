@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:  The original name of Java was "Oak", inspired by an oak tree outside the office of James Gosling, the language's creator. But it was later changed to Java after a brainstorming session where developers wanted something catchy—eventually naming it after their favorite coffee! ☕
 
-- Check my portfolio: <a href="https://porfolio-two-black.vercel.app/" target="_blank">Jhon's portfolio</a>
+- Check my portfolio: <a href="https://porfolio-two-black.vercel.app/" target="_blank">Jhon's portfolio</a> Deployed with [Vercel](https://vercel.com/), I used the portfolio made in react from [oritromax](https://github.com/oritromax/react-portfolio?utm_source=chatgpt.com)

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Nelumbo Consultores, Colombia.
-- 🌱 I’m currently learning React, Java, MySQL, MongoDB Python.
+- 🌱 I’m currently learning React, Java, MySQL, MongoDB, Python.
 - 🤔 I’m looking for help with Cloud Services
 - 💬 Ask me about QA
 - 📫 How to reach me: jhoncarlosacevedomendoza@gmail.com
